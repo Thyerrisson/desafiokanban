@@ -10,3 +10,5 @@ lista_de_alunos = [
 
 alunos_em_recuperacao, top_student = processar_alunos(lista_de_alunos)
 
+print(alunos_em_recuperacao)
+print(top_student)
