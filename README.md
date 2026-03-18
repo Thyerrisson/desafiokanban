@@ -10,7 +10,7 @@ Requisitos não-funcionais (RNF'S):                           | Descrição:
 ===============================================================================================================================================
 Regras de negócio (RN'S):                                    | Descrição:
 
-- Identificação de alunos                                    | O aluno deve se identificar com nome, ano e turma
+- Identificação de alunos                                    | O aluno deve se identificar com nome e turma
 - Gerar arquivo .txt de resultados                           | O sistema deve emitir um arquivo ".txt" a fim de retornar todos os resultados
 - Resultados de média                                        | Se a média de um aluno for menor que 7, será reprovado; Caso contrário, será aprovado
 - Validação de dados                                         | O sistema não deve continuar com as operações se existirem dados incompletos ou inválidos 
@@ -19,4 +19,5 @@ Regras de negócio (RN'S):                                    | Descrição:
 ================================================================================================================================================
 Links: 
 https://trello.com/invite/b/69b88173b31e782d3a32c920/ATTI2ae63eff1c7a0b8dc2db499bd731cf33EFC7CE54/projetointegrador
+
 https://miro.com/app/board/uXjVGEPx8vE=/?share_link_id=933965335811
