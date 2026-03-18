@@ -17,7 +17,12 @@ Regras de negócio (RN'S):                                    | Descrição:
 
 
 ================================================================================================================================================
-Links: 
-https://trello.com/invite/b/69b88173b31e782d3a32c920/ATTI2ae63eff1c7a0b8dc2db499bd731cf33EFC7CE54/projetointegrador
+IMAGENS:
 
-https://miro.com/app/board/uXjVGEPx8vE=/?share_link_id=933965335811
+MAPA DA EMPATIA: 
+![alt text](mapadaempatia.jpg)
+
+
+KANBAN:
+
+![alt text](kanbantrello.png)
